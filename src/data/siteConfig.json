@@ -1,0 +1,53 @@
+{
+  "name": "GUYRESTAURANTE",
+  "slug": "guyrestaurante.com.br",
+  "description": "Bem vindo ao restaurante GUY Nossos chefs de cozinha são especialistas em transformar ingredientes frescos e saborosos em pratos deliciosos. Com anos de experiência em cozinhas de todo o mundo, nossos chefs trazem uma abordagem única para cada refeição que preparam. Eles combinam técnicas clássicas com novas ideias culinárias para criar pratos únicos e memoráveis que irão encantar seus paladares. Nossos chefs são verdadeiros mestres em suas áreas de especialização, sejam elas culinária internacional, pratos vegetarianos ou opções veganas.",
+  "url": "https://guyrestaurante.com.br",
+  "niche": "Gastronomia",
+  "keywords": "Bem vindo ao restaurante GUY Nossos chefs de cozinha sao especialistas em",
+  "email": "contato@guyrestaurante.com.br",
+  "palette": "slate",
+  "colors": {
+    "primary": "#334155",
+    "accent": "#1e293b",
+    "dark": "#0f172a"
+  },
+  "headerContrast": "dark",
+  "font": "lora",
+  "fontFamily": "'Lora', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap",
+  "components": {
+    "header": "Header-J",
+    "hero": "Hero-E",
+    "features": "Features-D",
+    "about": "About-G",
+    "posts": "Posts-D",
+    "footer": "Footer-A",
+    "sobre": "Sobre-I",
+    "contato": "Contato-A"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

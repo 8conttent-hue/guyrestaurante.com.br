@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "GUYRESTAURANTE — Bem-vindo ao GUY RESTAURANTE",
+    "description": "Onde cada prato é uma experiência única."
+  },
+  "hero": {
+    "title": "Bem-vindo ao GUY RESTAURANTE",
+    "subtitle": "Onde cada prato é uma experiência única.",
+    "btnText": "Faça sua reserva",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Diferenciais",
+    "items": [
+      {
+        "icon": "🍽️",
+        "title": "Culinária Internacional",
+        "desc": "Nossos chefs trazem influências de diversas culinárias do mundo para criar pratos irresistíveis."
+      },
+      {
+        "icon": "🥗",
+        "title": "Opções Vegetarianas",
+        "desc": "Explore uma variedade de pratos vegetarianos feitos com ingredientes frescos e saborosos."
+      },
+      {
+        "icon": "🌱",
+        "title": "Pratos Veganos",
+        "desc": "Delicie-se com nossas opções veganas, que combinam sabor e saúde em cada garfada."
+      },
+      {
+        "icon": "👨‍🍳",
+        "title": "Chefs Especializados",
+        "desc": "Nossos chefs possuem vasta experiência e são apaixonados por criar experiências gastronômicas memoráveis."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre o GUY RESTAURANTE",
+    "desc": "O GUY RESTAURANTE foi criado para levar até você a verdadeira arte da gastronomia. Nossos chefs são especialistas em transformar ingredientes frescos em pratos que encantam o paladar. Cada refeição é uma nova oportunidade de descobrir sabores únicos e surpreendentes.",
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "50+",
+        "label": "Pratos no Menu"
+      },
+      {
+        "value": "1000+",
+        "label": "Clientes Satisfeitos"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

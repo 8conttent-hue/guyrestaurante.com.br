@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o GUYRESTAURANTE"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "O GUY RESTAURANTE foi criado para levar até você a verdadeira arte da gastronomia. Nossos chefs são especialistas em transformar ingredientes frescos em pratos que encantam o paladar. Cada refeição é uma nova oportunidade de descobrir sabores únicos e surpreendentes."
+  },
+  "content": "No GUY RESTAURANTE, acreditamos que cozinhar é uma forma de arte. Nossos chefs talentosos conseguem equilibrar técnicas clássicas com inovação, criando pratos que são não apenas saborosos, mas também verdadeiras obras-primas. Venha nos visitar e descubra um mundo de sabores.",
+  "mission": "Nossa missão é proporcionar uma experiência gastronômica inesquecível, utilizando ingredientes de alta qualidade e respeitando a sustentabilidade.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}
